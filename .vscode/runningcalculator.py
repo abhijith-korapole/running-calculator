@@ -6,6 +6,7 @@ while flag == True:
     print(operation)
     method = input("enter the symbol of operation you want to perform from the abouve symbols: ")
     
+    
     num2 = float(input("enter the second number: "))
     if method == "+":
      result = num1 + num2
