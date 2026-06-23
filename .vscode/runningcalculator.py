@@ -4,7 +4,7 @@ while flag == True:
    operations = ["+", "-", "*", "/"]
    for operation in operations:
     print(operation)
-    method = input("enter the symbol of operation you want to perform from the abouve symbols: ")
+    method = input("enter the symbol of operation you want to perform from the above symbols: ")
     
     
     num2 = float(input("enter the second number: "))
